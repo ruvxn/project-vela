@@ -1,0 +1,13 @@
+[
+    "rainfall_mm",
+    "temp_mean_c",
+    "usd_lkr_rate",
+    "arrivals_lag1",
+    "arrivals_lag7",
+    "arrivals_rolling7",
+    "month_sin",
+    "month_cos",
+    "dow_sin",
+    "dow_cos",
+    "is_peak_season"
+]
